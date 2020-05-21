@@ -24,6 +24,18 @@ Getting started
     ./gradlew -PcxnHubUser=<YOUR_PASS_EMAIL> -PcxnHubPass=<YOUR_HUB_API_KEY> runSimilarityExample
     ```
    
+   
+API docs
+--------
+
+JAVA API docs can be foand at the [JChem Base API documentation](https://apidocs.chemaxon.com/jchem/doc/dev/java/api/)
+site. The most important packages relevant to this example:
+
+  * [`com.chemaxon.descriptors.common`](https://apidocs.chemaxon.com/jchem/doc/dev/java/api/index.html?com/chemaxon/descriptors/common/package-summary.html)
+  * [`com.chemaxon.descriptors.fingerprints.cfp`](https://apidocs.chemaxon.com/jchem/doc/dev/java/api/index.html?com/chemaxon/descriptors/fingerprints/cfp/package-summary.html)
+  * [`com.chemaxon.descriptors.alignment`](https://apidocs.chemaxon.com/jchem/doc/dev/java/api/index.html?com/chemaxon/descriptors/alignment/package-summary.html)
+   
+   
     
 Licensing
 ---------
